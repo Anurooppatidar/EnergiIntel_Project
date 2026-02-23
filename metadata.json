@@ -1,0 +1,7 @@
+{
+  "name": "EnergiIntel RAG",
+  "description": "A professional document intelligence system for the energy sector using RAG to extract insights from technical manuals, reports, and research papers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
